@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jdubrick-ai/newargonamespace-sept25:cc7b7765c1f97e52a9109c34949281d4ae8ba6c9@sha256:fa2edb518548d3c96dc112afbc3488a75245a90d22c9d370844a724e7538a055 # use pre-built to bootstrap 
+        - image: quay.io/jdubrick-ai/newargonamespace-sept25:430e3c093e9ab96c5bc473c7c961116be47d6c9e@sha256:351062af3001a219d3608e80b3793e9b5daf570fa1d0d32a99d057c8b5ae3c7a # use pre-built to bootstrap 
           name: app-inference
